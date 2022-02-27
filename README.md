@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-LinkedIn (https://www.linkedin.com/in/vujovicnikola/)
+LinkedIn >> https://www.linkedin.com/in/vujovicnikola/ 
 
 ### Languages and Tools:
 
