@@ -1,6 +1,6 @@
 # Greetings 👋 
 
-## I am a Frontend Developer
+## I am a Junior Frontend Developer
 
 - 🔭 Check out some of my projects!
 - 🌱 I’m currently working on a CMS Project
