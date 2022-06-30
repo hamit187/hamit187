@@ -1,9 +1,9 @@
 # Greetings 👋 
 
-## I am a Junior Frontend Developer
+## I am a Software Developer
 
 - 🔭 Check out some of my projects!
-- 🌱 I’m currently working on a CMS Project
+- 🌱 I’m currently working on my Portfolio
 - 💪 I’m looking to collaborate with other developers
 - 🗣 I speak English, Russian and Serbian
 - ⚡ As a hobby I like to play and watch basketball
