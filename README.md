@@ -3,7 +3,7 @@
 ## I am a Software Developer
 
 - 🔭 Check out some of my projects!
-- 🌱 I’m currently working on my Portfolio
+- 🌱 I’m currently working on a NBA Based Project
 - 💪 I’m looking to collaborate with other developers
 - 🗣 I speak English, Russian and Serbian
 - ⚡ As a hobby I like to play and watch basketball
