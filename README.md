@@ -5,7 +5,7 @@
 - 🔭 Check out some of my projects!
 - 🌱 I’m currently working on a NBA Based Project
 - 💪 I’m looking to collaborate with other developers
-- 🗣 I speak English, Russian and Serbian
+- 🗣 I speak English, Russian, Turkish and Serbian
 - ⚡ As a hobby I like to play and watch basketball
 
 ### Connect with me:
