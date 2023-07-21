@@ -5,13 +5,7 @@
 - 🔭 Check out some of my projects!
 - 🌱 I’m currently working on a NBA Based Project
 - 💪 I’m looking to collaborate with other developers
-- 🗣 I speak English, Russian, Turkish and Serbian
 - ⚡ As a hobby I like to play and watch basketball
-
-### Connect with me:
-
-LinkedIn >> https://www.linkedin.com/in/vujovicnikola/ 
-Website >> https://nikolavujovic.com/
 
 ### Languages and Tools:
 
@@ -32,6 +26,3 @@ Website >> https://nikolavujovic.com/
 ---
 
 
-
-[website]: X
-[linkedin]: https://www.linkedin.com/in/vujovicnikola/
